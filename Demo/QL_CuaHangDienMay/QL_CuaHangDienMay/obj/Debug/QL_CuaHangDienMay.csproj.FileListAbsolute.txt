@@ -1,0 +1,101 @@
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.pdb
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Form1.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Properties.Resources.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csproj.GenerateResource.Cache
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe.licenses
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.pdb
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDangNhap.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKy.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDoiMatKhau.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csprojResolveAssemblyReference.cache
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.dll
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.pdb
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormLoaiSanPham.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormSanPham.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormPhanQuyen.resources
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.dll
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.pdb
+D:\Hoc_Ki_2_Nam_3\CongNghePhanMem\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormHoaDon.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.pdb
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.pdb
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKy.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKyTaiKhoanThanhVien.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Form1.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDangNhap.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDoiMatKhau.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormHoaDon.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormLoaiSanPham.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormPhanQuyen.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormSanPham.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Properties.Resources.resources
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csproj.GenerateResource.Cache
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe.licenses
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.dll
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.dll
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.pdb
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.pdb
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csprojResolveAssemblyReference.cache
+D:\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe.config
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe.config
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKy.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKyTaiKhoanThanhVien.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Form1.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDangNhap.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDoiMatKhau.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormHoaDon.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormLoaiSanPham.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormPhanQuyen.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormSanPham.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csproj.GenerateResource.Cache
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe.licenses
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.dll
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.pdb
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormNhanVien.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormKhachHang.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormBaoHanh.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormChiTietBaoHanh.resources
+C:\Users\Lenovo\OneDrive\Máy tính\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDangKyTaiKhoanThanhVien.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe.config
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\BLL.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\DAL.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csprojResolveAssemblyReference.cache
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKy.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.DangKyTaiKhoanThanhVien.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Form1.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormBaoHanh.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormChiTietBaoHanh.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDangKyTaiKhoanThanhVien.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDangNhap.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormDoiMatKhau.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormHoaDon.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormKhachHang.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormLoaiSanPham.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormNhanVien.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormPhanQuyen.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.FormSanPham.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Properties.Resources.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.csproj.GenerateResource.Cache
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe.licenses
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.Form_PhatHienKhachHang.resources
+D:\CSGO\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.WaiTing.resources
+C:\Users\Lenovo\OneDrive\Tài liệu\DAMH_Nhom8_2001180274_TranDinhVan_QuanLyCuaHangDienMay_All\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\bin\Debug\QL_CuaHangDienMay.exe.config
+C:\Users\Lenovo\OneDrive\Tài liệu\DAMH_Nhom8_2001180274_TranDinhVan_QuanLyCuaHangDienMay_All\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.exe
+C:\Users\Lenovo\OneDrive\Tài liệu\DAMH_Nhom8_2001180274_TranDinhVan_QuanLyCuaHangDienMay_All\Demo\QL_CuaHangDienMay\QL_CuaHangDienMay\obj\Debug\QL_CuaHangDienMay.pdb

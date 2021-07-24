@@ -1,0 +1,5 @@
+D:\CSGO\Demo\QL_CuaHangDienMay\DAL\bin\Debug\DAL.dll.config
+D:\CSGO\Demo\QL_CuaHangDienMay\DAL\bin\Debug\DAL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\DAL\bin\Debug\DAL.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\DAL\obj\Debug\DAL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\DAL\obj\Debug\DAL.pdb

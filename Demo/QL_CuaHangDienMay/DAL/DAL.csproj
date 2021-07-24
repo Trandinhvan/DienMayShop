@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C05C406-2AAF-4F66-B4E4-2C7092BB4C20}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAL</RootNamespace>
+    <AssemblyName>DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CH_DienMay_Final.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CH_DienMay_Final.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CH_DienMay_Final1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CH_DienMay_Final1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CuaHangDienMay.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CuaHangDienMay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DienMay.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DienMay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoadData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="QL_NguoiDung.cs" />
+    <Compile Include="TaoHoaDon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="CH_DienMay_Final.xsc">
+      <DependentUpon>CH_DienMay_Final.xsd</DependentUpon>
+    </None>
+    <None Include="CH_DienMay_Final.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CH_DienMay_Final.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="CH_DienMay_Final.xss">
+      <DependentUpon>CH_DienMay_Final.xsd</DependentUpon>
+    </None>
+    <None Include="CH_DienMay_Final1.xsc">
+      <DependentUpon>CH_DienMay_Final1.xsd</DependentUpon>
+    </None>
+    <None Include="CH_DienMay_Final1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CH_DienMay_Final1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="CH_DienMay_Final1.xss">
+      <DependentUpon>CH_DienMay_Final1.xsd</DependentUpon>
+    </None>
+    <None Include="CuaHangDienMay.xsc">
+      <DependentUpon>CuaHangDienMay.xsd</DependentUpon>
+    </None>
+    <None Include="CuaHangDienMay.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CuaHangDienMay.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="CuaHangDienMay.xss">
+      <DependentUpon>CuaHangDienMay.xsd</DependentUpon>
+    </None>
+    <None Include="DienMay.xsc">
+      <DependentUpon>DienMay.xsd</DependentUpon>
+    </None>
+    <None Include="DienMay.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DienMay.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DienMay.xss">
+      <DependentUpon>DienMay.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

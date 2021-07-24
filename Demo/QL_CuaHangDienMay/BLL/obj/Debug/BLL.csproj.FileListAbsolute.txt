@@ -1,0 +1,7 @@
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\bin\Debug\BLL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\bin\Debug\BLL.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\bin\Debug\DAL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\bin\Debug\DAL.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\obj\Debug\BLL.dll
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\obj\Debug\BLL.pdb
+D:\CSGO\Demo\QL_CuaHangDienMay\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
